@@ -19,7 +19,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: docker.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: aws-ejercicio3-frontend
+  IMAGE_NAME: vrouqen/aws-ejercicio3-frontend
 
 
 jobs:
